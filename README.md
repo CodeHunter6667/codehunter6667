@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rafael Ehlert - futuro Desenvolvedro Web Back-end
+## Olá! Eu sou o Rafael Ehlert - futuro Desenvolvedor Web FullStack
 
 - 🔭 Buscando uma vaga como Desenvolvedor Web
 - 🌱 Estudos com foco em Java Web, com conhecimentos em HTML, CSS e JavaScript
