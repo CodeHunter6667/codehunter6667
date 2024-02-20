@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Rafael Ehlert - futuro Desenvolvedro Web Back-end
 
 - 🔭 Buscando uma vaga como Desenvolvedor Web
-- 🌱 Estudos com foco em Java, mas aprendendo principios de front-end
+- 🌱 Estudos com foco em Java Web, com conhecimentos em HTML, CSS e JavaScript
+- Comecando estudos no framework Anguar
 
 <div>
     <a href="https://github.com/codehunter6667">
